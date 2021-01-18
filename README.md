@@ -1,9 +1,5 @@
 # AI-and-Democracy
 
-<style>
- li { margin-bottom: 20px; }
-</style>
-
 <ul>
 
 <li>
