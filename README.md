@@ -1,4 +1,4 @@
-# AI-and-Democracy
+# AI and Democracy
 
  Technological advancements will continue to accelerate.
  To an extent that it exceeds the human ability to adapt.
